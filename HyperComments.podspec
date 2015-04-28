@@ -5,10 +5,10 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
                        Library allow use HyperComments service
                        DESC
-  s.homepage         = "https://github.com/rutube/HyperComments"
+  s.homepage         = "https://github.com/Juraldinio/HyperComments"
   s.license          = 'MIT'
   s.author           = { "Juraldinio" => "juraldinio@gmail.com" }
-  s.source           = { :git => "https://github.com/rutube/HyperComments.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/Juraldinio/HyperComments.git", :tag => s.version.to_s }
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
